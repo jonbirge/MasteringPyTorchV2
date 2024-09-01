@@ -1,6 +1,8 @@
 # Data
 data/
-*.python
+*.pth
+*_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
