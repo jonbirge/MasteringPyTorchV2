@@ -1,5 +1,7 @@
 # Data
-data/
+*/data/
+*/.data/
+.data/
 *.pth
 *_data/
 *_dir/
